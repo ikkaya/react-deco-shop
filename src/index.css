@@ -1,13 +1,92 @@
-body {
-  margin: 0;
-  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
-    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
-    sans-serif;
-  -webkit-font-smoothing: antialiased;
-  -moz-osx-font-smoothing: grayscale;
+
+.box{
+  display: flex;
+  flex-wrap: wrap;
+}
+.material-icons{
+  font-size: 2.4em;
+  cursor: pointer;
+}
+.card{
+  display: flex;
+  min-width: 300px;
+  height: 400px;
+  align-items: center;
+  justify-content: center;
+}
+.card .card-image .card-title{
+  color: black;
+  font-weight: 400;
 }
 
-code {
-  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
-    monospace;
+.card-icon{
+  position: absolute;
+  right: 0;
+  bottom: 0;
+  padding-bottom: 50px;
+  padding-right: 50px;
 }
+.cart{
+  margin-top:40px;
+}
+.list-group .list-group-item{
+  display: block;
+  border-color: transparent;
+}
+.list-group-item.avatar .title {
+  font-size: 20px;
+  font-weight: 500;
+  color:#766a8d;
+  display: block;
+  margin-bottom: 20px;
+  
+}
+.list-group .list-group-item img{
+  width: 75px;
+  margin-right: 5px;
+}
+
+.item-desc{
+  align-self:center;
+}
+.btn-navbar{
+  color: #766a8d !important;
+  border-color: #766a8d !important;
+}
+
+.btn-navbar:hover{
+      background-color: #575063 !important;
+      color: #dde1e9 !important;
+}
+.btn-home{
+  color:#194D33 !important;
+  border-color:#194D33 !important;
+}
+
+.btn-home:hover{
+      background-color:#153f2a !important;
+      color: #dde1e9 !important;
+}
+.fab:hover{
+  opacity: 0.7;
+}
+.page-container {
+  position: relative;
+  min-height: 100vh;  
+}
+.wrapper{
+  padding-bottom: 13rem;
+}
+.footer{
+  position: absolute;
+  bottom: 0;
+  width: 100%;
+  height: 13rem; 
+  color: #dde1e9;
+  background-color: #2c6979cc;
+}
+.text-right {
+  text-align: right !important;
+}
+
+
