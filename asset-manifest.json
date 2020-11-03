@@ -1,0 +1,35 @@
+{
+  "files": {
+    "main.css": "/react-deco-shop/static/css/main.dda4b58e.chunk.css",
+    "main.js": "/react-deco-shop/static/js/main.2d5cf705.chunk.js",
+    "main.js.map": "/react-deco-shop/static/js/main.2d5cf705.chunk.js.map",
+    "runtime-main.js": "/react-deco-shop/static/js/runtime-main.01a3132e.js",
+    "runtime-main.js.map": "/react-deco-shop/static/js/runtime-main.01a3132e.js.map",
+    "static/css/2.ed439b8d.chunk.css": "/react-deco-shop/static/css/2.ed439b8d.chunk.css",
+    "static/js/2.3a0d126d.chunk.js": "/react-deco-shop/static/js/2.3a0d126d.chunk.js",
+    "static/js/2.3a0d126d.chunk.js.map": "/react-deco-shop/static/js/2.3a0d126d.chunk.js.map",
+    "index.html": "/react-deco-shop/index.html",
+    "precache-manifest.19edf360109ccfd7556dfe9498deb036.js": "/react-deco-shop/precache-manifest.19edf360109ccfd7556dfe9498deb036.js",
+    "service-worker.js": "/react-deco-shop/service-worker.js",
+    "static/css/2.ed439b8d.chunk.css.map": "/react-deco-shop/static/css/2.ed439b8d.chunk.css.map",
+    "static/css/main.dda4b58e.chunk.css.map": "/react-deco-shop/static/css/main.dda4b58e.chunk.css.map",
+    "static/js/2.3a0d126d.chunk.js.LICENSE.txt": "/react-deco-shop/static/js/2.3a0d126d.chunk.js.LICENSE.txt",
+    "static/media/img1.jpg": "/react-deco-shop/static/media/img1.8c433678.jpg",
+    "static/media/img10.jpg": "/react-deco-shop/static/media/img10.470be1f2.jpg",
+    "static/media/img12.jpg": "/react-deco-shop/static/media/img12.f3867f6d.jpg",
+    "static/media/img2.jpg": "/react-deco-shop/static/media/img2.5b944430.jpg",
+    "static/media/img3.jpg": "/react-deco-shop/static/media/img3.2901c664.jpg",
+    "static/media/img6.jpg": "/react-deco-shop/static/media/img6.59c48f35.jpg",
+    "static/media/img7.jpg": "/react-deco-shop/static/media/img7.78d779fd.jpg",
+    "static/media/img8.jpg": "/react-deco-shop/static/media/img8.e9a341f9.jpg",
+    "static/media/img9.jpg": "/react-deco-shop/static/media/img9.d0d4e904.jpg",
+    "static/media/logohome.svg": "/react-deco-shop/static/media/logohome.880d64f7.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.01a3132e.js",
+    "static/css/2.ed439b8d.chunk.css",
+    "static/js/2.3a0d126d.chunk.js",
+    "static/css/main.dda4b58e.chunk.css",
+    "static/js/main.2d5cf705.chunk.js"
+  ]
+}
