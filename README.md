@@ -1,5 +1,7 @@
 ## React Deco Shop
 
+React Deco Shop is a simple online shopping application built with React Redux.
+
 **Live Demo**
 
 https://react-deco-shop-app.herokuapp.com
